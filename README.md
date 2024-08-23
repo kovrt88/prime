@@ -4,5 +4,5 @@ A prime number fider in multiple languages.
 
 Available languages:
     <ul>
-        <li>Javascript: prime.js</li>
+        <li>Javascript: <code>prime.js</code></li>
     </ul>
